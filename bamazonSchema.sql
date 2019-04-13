@@ -10,3 +10,6 @@ CREATE TABLE products(
   stock_quantity INT DEFAULT 0,
   PRIMARY KEY (id)
 );
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("paper towels","home", 5.00, 100);
