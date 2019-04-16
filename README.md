@@ -1,6 +1,6 @@
 # Welcome to Bamazon!
 
-Bamazon is CLI application that uses Node.js and MySQL.
+Bamazon is a CLI application that uses Node.js and MySQL.
 
 ### How to Install and Run the Application:
 1. Currently, only "Customer View" is available. 
